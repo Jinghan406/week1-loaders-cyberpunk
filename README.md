@@ -1,4 +1,6 @@
-# Week 1 - Progress Bar
+# Week 1 - Loaders: Cyberpunk
 
 Cyberpunk progress indicators: Uplink (indeterminate) and Core (determinate).
-Live page: https://jinghan406.github.io/week1-progress-bar/
+Each shows a zero, progress and complete state.
+
+Live page: https://jinghan406.github.io/week1-loaders-cyberpunk/
